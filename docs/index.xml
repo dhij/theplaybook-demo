@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Docs on My New Hugo Site</title>
+    <link>https://dhij.github.io/theplaybook-demo/docs/</link>
+    <description>Recent content in Docs on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 20 Feb 2023 14:13:37 -0500</lastBuildDate><atom:link href="https://dhij.github.io/theplaybook-demo/docs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Test</title>
+      <link>https://dhij.github.io/theplaybook-demo/docs/test/</link>
+      <pubDate>Mon, 20 Feb 2023 14:13:37 -0500</pubDate>
+      
+      <guid>https://dhij.github.io/theplaybook-demo/docs/test/</guid>
+      <description>This is a test page. This is test page!</description>
+    </item>
+    
+  </channel>
+</rss>
